@@ -1,14 +1,14 @@
 # AI-Driven Discovery of Fundamental Constants in Physical Phenomena
 
 ## Introduction
-Understanding the emergence of fundamental constants, such as \(\pi\), in physics has been a cornerstone of scientific inquiry. This project explores whether AI can autonomously detect and hypothesize mathematical structures underlying physical laws by analyzing numerical simulations. Specifically, our AI model successfully rediscovered \(\pi\) from a classical mechanics simulation involving elastic collisions, suggesting a framework for AI-driven theoretical physics.
+Understanding the emergence of fundamental constants, such as \(\pi\), in physics has been a cornerstone of scientific inquiry. This project explores whether AI can autonomously detect and hypothesize mathematical structures underlying physical laws by analyzing numerical simulations. Precisely, our AI model successfully rediscovered pi from a classical mechanics simulation involving elastic collisions, and has also completely discovered the underlying relation that was the cause of the emergence of pi.
 
 ## Background and Theoretical Motivation
-Physical constants such as \(\pi\), \(e\), and \(h\) emerge in diverse contexts, from statistical mechanics to quantum field theory. This project draws inspiration from classical mechanics, particularly the problem of counting collisions between blocks with different mass ratios, where the number of collisions follows a pattern related to \(\pi\). Using machine learning techniques, we allow AI to process numerical data and propose functional relationships autonomously.
+Physical constants such as pi, e, and h emerge in diverse contexts, from statistical mechanics to quantum field theory. This project draws inspiration from classical mechanics, particularly the problem of counting collisions between blocks with different mass ratios, where the number of collisions follows a pattern related to pi. Using machine learning techniques, we allow AI to process numerical data and propose functional relationships autonomously.
 
 ## Methodology
 ### Data Generation
-We simulate elastic collisions of two blocks with varying mass ratios and count the total number of collisions before they separate indefinitely. The classical solution predicts that the number of collisions scales as \(\pi \times \sqrt{m_2/m_1}\) for large mass ratios.
+We simulate elastic collisions of two blocks with varying mass ratios and count the total number of collisions before they separate indefinitely. The classical solution predicts that the number of collisions scales as pi times sqrt{m_2/m_1} for large mass ratios. For the visualisation of this emergence of pi, we have forked the repository  https://github.com/prajwalsouza/Counting-Collisions. His HTML website https://prajwalsouza.github.io/Experiments/Colliding-Blocks.html truly captures how pi comes out of nowhere.
 
 ### AI-Driven Pattern Recognition
 We utilize symbolic regression techniques to extract underlying equations from the generated numerical data. The AI:
