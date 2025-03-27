@@ -18,11 +18,10 @@ We utilize symbolic regression techniques to extract underlying equations from t
 
 ### Results
 The AI successfully derived a function of the form:
-$$
-N \approx 3.141 \times 10^{X_0}
-$$
+N ≈ 3.141 × 10^X₀
 
-Where $$X_0$$ represents a transformed mass ratio variable in the form of log(mass ratio). This approximation aligns with the expected presence of $$pi$$ in the theoretical solution.
+
+Where $$X_0$$ represents a transformed mass ratio variable in the form of log(mass ratio). This approximation aligns with the expected presence of pi in the theoretical solution.
 
 ## AI as a Theoretical Physicist or Mathematician
 AI excels at recognizing patterns in large datasets, mirroring the process of human theoretical discovery. In this context, the AI acts as an automated theorist, autonomously deriving mathematical relationships from empirical observations. Unlike traditional numerical curve fitting, AI-driven symbolic regression enables the emergence of physically meaningful expressions.
