@@ -26,7 +26,7 @@ Where $$X_0$$ represents a transformed mass ratio variable in the form  log(mass
 ## AI as a Theoretical Physicist or Mathematician
 AI excels at recognizing patterns in large datasets, mirroring the process of human theoretical discovery. In this context, the AI acts as an automated theorist, autonomously deriving mathematical relationships from empirical observations. Unlike traditional numerical curve fitting, AI-driven symbolic regression enables the emergence of physically meaningful expressions.
 
-A useful comparison is SAKANA AI, which aims to derive new physical theories by searching for invariant structures within data. Unlike SAKANA, which operates on more abstract theoretical principles, our approach focuses on direct symbolic extraction from simulated experiments, making it accessible for targeted applications in physics and mathematics. 
+A useful comparison is AI SCIENTIST, which aims to derive new physical theories by searching for invariant structures within data. Unlike AI SCIENTIST, which operates on more abstract theoretical principles, our approach focuses on direct symbolic extraction from simulated experiments, making it accessible for targeted applications in physics and mathematics. 
 
 Extending to Other Physical Phenomena
 The success of this approach highlights the potential for AI in uncovering hidden mathematical structures in nature. Future research could extend this methodology to a broader range of physical systems, including:
